@@ -1,0 +1,4 @@
+fastmcp>=2.12,<3
+uvicorn[standard]>=0.35
+telead==0.1.1
+python-dotenv>=1.1
